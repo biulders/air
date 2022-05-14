@@ -1,0 +1,22 @@
+{
+    "name": "b",
+    "description": "b",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "6d3137d6-cd2e-4cd6-8bf2-2448bd929ab9"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/norbeer/air/",
+    "repository": "https://github.com/norbeer/air",
+    "stack": "container"
+}
